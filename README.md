@@ -227,7 +227,7 @@ DCGAN全称是“深度卷积生成对抗网络”。顾名思义，它是一个
 
 [Large-scale CelebFaces Attributes](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
-[Github]()
+[Github](https://github.com/alex-mau/DCGAN)
 
 
 
