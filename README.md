@@ -257,3 +257,13 @@ Vincent Dumoulin1⋆ and Francesco Visin2⋆† ⋆MILA, Université de Montre�
 †AIRLab, Politecnico di Milano January 12, 2018
 
 【6】 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift， Google Inc
+
+
+
+
+
+
+
+
+
+####                                                                                                 (PFStudio)
